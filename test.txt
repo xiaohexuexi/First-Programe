@@ -1,3 +1,8 @@
 just for testing!!!
 test fetch.
+<<<<<<< HEAD
 remote change~
+=======
+
+local change
+>>>>>>> master
